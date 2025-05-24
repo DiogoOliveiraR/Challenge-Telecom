@@ -14,32 +14,6 @@ Matplotlib/Seaborn: Bibliotecas para visualização de dados.
 
 Jupyter Notebook: Ambiente interativo para desenvolvimento da análise.
 
-Instalação e Dependências
-Para rodar este projeto localmente, siga os passos abaixo:
-
-1. Clone o repositório
-bash
-Copiar
-Editar
-git clone https://github.com/ingridcristh/challenge2-data-science.git
-2. Instale as dependências
-Certifique-se de ter o Python 3.x instalado. Crie um ambiente virtual e instale as dependências:
-
-bash
-Copiar
-Editar
-cd challenge2-data-science
-python -m venv venv
-source venv/bin/activate  # Para Linux/Mac
-venv\Scripts\activate     # Para Windows
-pip install -r requirements.txt
-3. Execute o Jupyter Notebook
-bash
-Copiar
-Editar
-jupyter notebook
-Abra o arquivo do notebook no navegador e execute as células para reproduzir a análise.
-
 Estrutura do Projeto
 TelecomX_Data.json: Arquivo JSON com os dados brutos da Telecom X.
 
